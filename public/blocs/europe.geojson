@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "bloc": "Europe" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-31, 34],
+          [-31, 72],
+          [45, 72],
+          [45, 34],
+          [-31, 34]
+        ]]
+      }
+    }
+  ]
+}

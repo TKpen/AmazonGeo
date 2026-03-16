@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "bloc": "GlobalSouth" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-90, -60],
+          [-90, 34],
+          [45, 34],
+          [45, -60],
+          [-90, -60]
+        ]]
+      }
+    }
+  ]
+}

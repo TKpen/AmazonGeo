@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "bloc": "NorthAmerica" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-168, 7],
+          [-168, 84],
+          [-52, 84],
+          [-52, 7],
+          [-168, 7]
+        ]]
+      }
+    }
+  ]
+}
